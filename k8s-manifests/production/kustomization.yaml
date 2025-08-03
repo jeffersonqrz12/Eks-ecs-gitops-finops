@@ -1,0 +1,4 @@
+resources:
+  - ../base/namespace.yaml
+  - app-frontend.yaml
+  - app-backend.yaml
